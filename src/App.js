@@ -32,7 +32,7 @@ const App = () => {
       console.log("vowelsArray:", vowelsArray)
 
       // ACTION ITEM: your Pig Latin logic goes here!
-
+      // Start writing my code for story 1 here...
       // ACTION ITEM: this return will be the output of your Pig Latin'd code
       return eachWord
     })
